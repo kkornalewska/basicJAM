@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: #fff3d0;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 5rem;
+    font-size: 3rem;
+}
+
+img {
+    vertical-align: middle;
+    width: 100px;
+}
+
+div {
+    text-align: center;
+    width: 200px;
+}
+
+p {
+    color: #777777
+
+
+}
